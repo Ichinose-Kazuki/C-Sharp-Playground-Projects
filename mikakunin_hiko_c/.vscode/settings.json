@@ -1,0 +1,4 @@
+{
+  "dotnet.defaultSolution": "Basics.sln",
+  "git.openRepositoryInParentFolders": "always"
+}
